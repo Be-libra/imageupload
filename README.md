@@ -19,6 +19,6 @@ use command-line to clone my repo
 
 #to run backend server
 >>>cd imageupload
->>>cd server
+>>>cd server-api
 >>>npm install
 >>>npm start
